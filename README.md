@@ -13,8 +13,8 @@ Data yang ditampilkan berupa hari/tanggal saat ini dan waktu sholat lima waktu. 
 <br><br><img src="https://github.com/uqifumi/Contoh-Async-Programming/blob/master/dokumentasi/Screenshot2.png" width="250"/><br><br>
 
 ## Paket yang digunakan:
-http: ^0.13.5 (https://pub.dev/packages/http)
-intl: ^0.17.0 (https://pub.dev/packages/intl)
+http: ^0.13.5 (https://pub.dev/packages/http)<br>
+intl: ^0.17.0 (https://pub.dev/packages/intl)<br>
 
 
 ## Referensi:
