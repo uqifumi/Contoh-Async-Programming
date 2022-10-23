@@ -11,6 +11,12 @@ Jika request data dari program berhasil diterima oleh server (tidak terjadi erro
 <br><br><img src="https://github.com/uqifumi/Contoh-Async-Programming/blob/master/dokumentasi/Screenshot4.png" width="250"/><br><br>
 Data yang ditampilkan berupa hari/tanggal saat ini dan waktu sholat lima waktu. Tampilan data hari/tanggal dan waktu sholat tersebut adalah sebagai berikut:
 <br><br><img src="https://github.com/uqifumi/Contoh-Async-Programming/blob/master/dokumentasi/Screenshot2.png" width="250"/><br><br>
+
+## Paket yang digunakan:
+http: ^0.13.5 (https://pub.dev/packages/http)
+intl: ^0.17.0 (https://pub.dev/packages/intl)
+
+
 ## Referensi:
 Dokumentasi JSON API dan URL endpoint yang digunakan di program dapat diakses di: 
 https://fathimah.docs.apiary.io/#reference/sholat  
